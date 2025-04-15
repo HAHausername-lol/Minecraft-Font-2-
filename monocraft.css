@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Monocraft';
+  src: url('Monocraft-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Monocraft', monospace;
+}
